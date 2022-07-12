@@ -1,6 +1,8 @@
 # practice-git
-
 ```javascript
+#創建README.md
+echo "# test" >> README.md
+
 #把這個專案變成一個Git可以管理的倉庫
 git init  
 
